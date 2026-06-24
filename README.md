@@ -1,6 +1,6 @@
 # HR Data Quality Analyser
 
-I spent about three years working as an Oracle Fusion HCM consultant, mostly doing data migrations using HDL (HCM Data Loader). And one thing that never changed across any project — the source data was always messy.
+I worked as an Oracle Fusion HCM consultant, mostly doing data migrations using HDL (HCM Data Loader). And one thing that never changed across any project — the source data was always messy.
 
 Clients would export employee records from their old system and hand them over, and almost every time there were problems. Duplicate person numbers. Names missing. Hire dates that somehow came after termination dates. Employees mapped to department codes that hadn't been set up in the new environment yet. We'd catch these during SIT/UAT, but it was always a manual process — open the file, scan through rows, flag things in a spreadsheet, send back to the client to fix, wait, repeat.
 
